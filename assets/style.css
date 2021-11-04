@@ -1,0 +1,15 @@
+body {
+     background-color: blue;       
+}
+
+h1 {
+    color: white;
+}
+
+.greeting-header {
+    color: red;
+}
+
+#main-content {
+    color:rosybrown;
+}
